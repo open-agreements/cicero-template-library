@@ -21,4 +21,8 @@ Template structure informed by widely used mutual NDA forms.
 
 ## Attribution
 
-Contributed by Steven Obiajulu.
+Template structure informed by [Bonterms](https://bonterms.com) standard mutual
+NDA forms (CC0 1.0) and [Common Paper](https://commonpaper.com) standard terms
+(CC BY 4.0). Template text is original.
+
+Contributed by Steven Obiajulu / [OpenAgreements](https://openagreements.ai).
